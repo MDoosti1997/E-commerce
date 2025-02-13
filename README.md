@@ -18,6 +18,7 @@ About this project:
 
 
 Setup .env file
+
 MONGO_URI=your_mongo_uri
 PORT=5000
 
