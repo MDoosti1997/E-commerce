@@ -6,7 +6,9 @@ MERN Stack E-commerce App 🚀
 
 About this project:
 
-⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI (Dark mode)
+
+Dark mode
 
 🔥 Build an API
 
